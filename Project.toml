@@ -1,0 +1,15 @@
+name = "EC2Scripts"
+uuid = "151f2196-49aa-45e3-a279-5c05e24303bc"
+version = "0.1.0"
+authors = ["Amoke Shabhari <amokeshabhari@gmail.com>"]
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+ReadWriteFind = "6e1ff3fe-52ba-4718-9baa-43b124cc059a"
+
+[sources]
+ReadWriteFind = {rev = "main", url = "https://github.com/runtosolve/ReadWriteFind.jl.git"}
+
+[compat]
+Printf = "1.11.0"
+ReadWriteFind = "0.1.0"

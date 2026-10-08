@@ -1,0 +1,27 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.2"
+manifest_format = "2.0"
+project_hash = "6803e69942d49231029bb7688efd1b5eb7497940"
+
+[[deps.EC2Scripts]]
+deps = ["Printf", "ReadWriteFind"]
+path = "."
+uuid = "151f2196-49aa-45e3-a279-5c05e24303bc"
+version = "0.1.0"
+
+[[deps.Printf]]
+deps = ["Unicode"]
+uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+version = "1.11.0"
+
+[[deps.ReadWriteFind]]
+git-tree-sha1 = "a11abcee202164526e8bf11dc3227f48be775886"
+repo-rev = "main"
+repo-url = "https://github.com/runtosolve/ReadWriteFind.jl.git"
+uuid = "6e1ff3fe-52ba-4718-9baa-43b124cc059a"
+version = "0.1.0"
+
+[[deps.Unicode]]
+uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
+version = "1.11.0"
